@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @jenniferroman
-- 👀 I’m studying Full-Stack Web Development at UCLA Extension
-- 🌱 I’m currently learning front-end technologies
+- 👀 I’m studying Full-Stack Web Development
 - 💞️ I’m proficient in Java, C, C++, and Javascript
 - 📫 How to reach me ... email me at ms.romanj@gmail.com
 
